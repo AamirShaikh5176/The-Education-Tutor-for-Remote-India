@@ -106,7 +106,21 @@ npm install
 npm run dev
 ```
 
+## 🔗 Live Demo
+
+👉 [https://your-demo-link.com](https://your-demo-link.com)
+
 ---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory:
+
+```env
+VITE_SUPABASE_PROJECT_ID="your_project_id"
+VITE_SUPABASE_PUBLISHABLE_KEY="your_publishable_key"
+VITE_SUPABASE_URL="your_supabase_url"
+```
 
 ## 🌟 Future Improvements
 
