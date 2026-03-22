@@ -107,7 +107,7 @@ npm run dev
 
 ## 🔗 Live Demo
 
-👉 [https://your-demo-link.com](https://your-demo-link.com)
+👉 https://youtu.be/e5rhU4dJkc4
 
 ---
 
@@ -119,6 +119,7 @@ Create a `.env` file in the root directory:
 VITE_SUPABASE_PROJECT_ID="your_project_id"
 VITE_SUPABASE_PUBLISHABLE_KEY="your_publishable_key"
 VITE_SUPABASE_URL="your_supabase_url"
+
 ```
 
 ## 🌟 Future Improvements
