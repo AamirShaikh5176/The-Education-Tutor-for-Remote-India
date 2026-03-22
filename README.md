@@ -36,7 +36,6 @@ VidyaSathi is an AI-powered educational web application designed to support Maha
 
 **Backend**
 
-* Lovable Cloud Functions
 * Database integration for AI and textbook retrieval
 
 ---
