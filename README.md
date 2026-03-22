@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88d63804-bebf-4c38-9237-3f7e72cd7117" width="24%" />
+  <img src="https://github.com/user-attachments/assets/6e7c2f61-b8af-43cc-8e14-a472854a7564" width="24%" />
+  <img src="https://github.com/user-attachments/assets/5d38c047-67ac-4ee9-ab9d-a388db03de34" width="24%" />
+  <img src="https://github.com/user-attachments/assets/4a7af989-e6e2-4005-ba0c-f2efaeea4a99" width="24%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/888bd96b-5a7a-4294-a365-49e32a71bce0" width="32%" />
+  <img src="https://github.com/user-attachments/assets/46ba0278-aed5-425a-a227-4f10a75062a7" width="32%" />
+  <img src="https://github.com/user-attachments/assets/ab4a9d9e-d401-4e74-a270-2eea0ebddd0d" width="32%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2290f4f9-fd9f-4e4f-af0e-cc1ecb64b9ed" width="32%" />
+  <img src="https://github.com/user-attachments/assets/feb4abf3-d6a5-4f10-87c3-1aa3c6a0c788" width="32%" />
+  <img src="https://github.com/user-attachments/assets/e5484006-6faf-460a-b486-0aec7e9cba05" width="32%" />
+</p>
+
 # 📘 VidyaSathi — AI Tutor for Every Indian Student
 
 VidyaSathi is an AI-powered educational web application designed to support Maharashtra Board (SSC 10th & HSC 12th) students. It provides interactive learning through AI chat, quizzes, dashboards, and study planning tools to enhance self-study and performance tracking. 
