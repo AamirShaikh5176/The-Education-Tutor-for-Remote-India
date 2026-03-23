@@ -127,6 +127,9 @@ npm run dev
 
 ---
 
+🔗 Try the Live Application: https://ai-tutor-for-remote-india.vercel.app/
+
+---
 ## 🔐 Environment Variables
 
 Create a `.env` file in the root directory:
