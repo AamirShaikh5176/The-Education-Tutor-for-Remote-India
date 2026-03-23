@@ -54,7 +54,6 @@ VidyaSathi is an AI-powered educational web application designed to support Maha
   <img src="https://img.shields.io/badge/ICONS-LUCIDE_REACT-F56565?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BACKEND-DATABASE_AI_RETRIEVAL-green?style=for-the-badge"/>
 </p>
----
 
 ## 📁 Project Structure
 
